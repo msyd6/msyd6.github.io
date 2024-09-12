@@ -1,1 +1,1 @@
-# riteshr19.github.io
+# smalladi.github.io
