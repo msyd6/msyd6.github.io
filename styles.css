@@ -2,7 +2,7 @@
 body {
     font-family: 'Helvetica Neue', Arial, sans-serif;
     margin: 0;
-    padding-bottom: 50px;
+    padding: 0;
     background-color: #f4f4f4; /* Light gray background */
 }
 
@@ -52,9 +52,10 @@ footer {
     color: #ffffff;
     text-align: center;
     padding: 12px 0;
-    position: fixed;
+    position: relative;
     width: 100%;
     bottom: 0;
+    clear: both;
     box-shadow: 0 -2px 5px rgba(0,0,0,0.1);
 }
 
