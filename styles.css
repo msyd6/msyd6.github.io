@@ -3,6 +3,7 @@ body {
     font-family: 'Helvetica Neue', Arial, sans-serif;
     margin: 0;
     padding: 0;
+    padding-bottom: 50px;
     background-color: #f4f4f4; /* Light gray background */
 }
 
@@ -54,6 +55,7 @@ footer {
     padding: 12px 0;
     position: fixed;
     width: 100%;
+    left: 0;
     bottom: 0;
     box-shadow: 0 -2px 5px rgba(0,0,0,0.1);
 }
